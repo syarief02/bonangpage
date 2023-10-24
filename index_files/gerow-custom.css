@@ -1,0 +1,62 @@
+/* Search results  CSS */
+.search-results .blog-post-item.type-product {
+    max-width: 800px;
+}
+.search-results .blog-post-item.type-product .blog-content:not(.blog-details-content) .post-text {
+    margin: 0 0;
+}
+.search-results .blog-post-item.type-product .blog-content .post-text p {
+    margin: 0 0;
+}
+.search-results .blog-post-item.type-product .blog-content .title {
+    margin-bottom: 15px;
+}
+.mc4wp-alert {
+    margin: 20px 0 0;
+    text-align: center;
+}
+.mc4wp-alert p {
+    margin: 0 0;
+}
+.mc4wp-success p {
+    color: green;
+}
+
+/* Elementor Custom CSS */
+.gerow-menu-not-showing {
+    padding: 25px 0;
+}
+.banner-content-three .wpcf7-not-valid-tip {
+    font-size: 14px;
+    margin-top: 10px;
+}
+.banner-area-three .wpcf7-response-output {
+    margin: 15px 0 0 !important;
+    font-size: 14px;
+}
+.w-100 .about-list-three .content p {
+    width: 100% !important;
+}
+.services-widget .wpcf7 form .wpcf7-response-output {
+    margin: 1em 0 0;
+    font-size: 14px;
+}
+.services-widget .wpcf7-not-valid-tip {
+    font-size: 14px;
+}
+
+/* Elementor Responsive */
+@media (max-width: 1800px) {
+
+}
+@media (max-width: 1199.98px) {
+
+}
+
+@media (max-width: 991.98px){
+
+}
+
+@media (max-width: 767.98px) {
+
+}
